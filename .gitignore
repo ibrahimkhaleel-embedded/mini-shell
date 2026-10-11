@@ -1,0 +1,10 @@
+# Compiled output
+minishell
+a.out
+*.o
+*.out
+
+# Editor / OS files
+.vscode/
+*.swp
+.DS_Store
